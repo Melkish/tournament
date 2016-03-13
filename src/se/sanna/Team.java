@@ -1,4 +1,7 @@
 package se.sanna;
+
+//Sanna Melke (same3047) och Sophie Lindberg (soli5539)
+
 import java.util.ArrayList;
 import java.util.Comparator;
 

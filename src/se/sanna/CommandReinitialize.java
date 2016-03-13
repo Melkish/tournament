@@ -1,5 +1,7 @@
 package se.sanna;
 
+//Sanna Melke (same3047) och Sophie Lindberg (soli5539)
+
 public class CommandReinitialize extends Command{
 	
 	public void execute(Tournament tournament){

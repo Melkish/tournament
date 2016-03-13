@@ -1,10 +1,9 @@
 package se.sanna;
 
-import java.io.FileInputStream;
-import java.io.FileNotFoundException;
+//Sanna Melke (same3047) och Sophie Lindberg (soli5539)
+
 import java.util.ArrayList;
 import java.util.Collections;
-import java.util.Scanner;
 
 public class Tournament {
 

@@ -1,9 +1,11 @@
 package se.sanna;
 
+//Sanna Melke (same3047) och Sophie Lindberg (soli5539)
+
 import java.util.Scanner;
 
 public class Command {
-    public static Scanner scanner = new Scanner(System.in);
+    protected static Scanner scanner = new Scanner(System.in);
 
     public static Command getCommand(Tournament tournament) {
         System.out.print("Command> ");
